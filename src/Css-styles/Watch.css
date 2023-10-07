@@ -1,0 +1,418 @@
+/* NAVBAR*/
+.img-thumbnail {
+    border: none !important;  
+}
+.img-thumbnail img{
+    mix-blend-mode: color-dodge !important;
+}
+.toggler{
+    border: none !important;
+}
+.all-btn{
+    border: 1px solid rgb(88, 88, 88,0.4);
+    border-radius: 3px 0px 0px 3px !important;
+    border-right: none !important;
+}
+.all-btn1{
+    border: 1px solid rgb(88, 88, 88,0.4);
+    border-radius: 0px 0px 0px 0px !important;
+    border-right: none !important;
+}
+.navbar-toggler-icon{
+    background-color: white;
+    border: none;
+}
+.toggler{
+    background-color: white;
+}
+.btn{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    padding: 5px 5px;
+}
+.carousel-indicators [data-bs-target]:hover{
+    background-color: blue;
+}
+
+
+
+/* BANNER */
+.watch-main{
+    width: 36%;
+    padding: 20px;
+    background-color: rgb(196, 173, 173,0.2);
+    
+}
+
+
+
+
+
+/* HEAD SET */
+.font-head{
+    font-size: 14px;
+    font-weight: bold;
+}
+.font1-head{
+   
+    font-weight: bold;
+}
+.co_container{
+    background-color: rgb(229, 231, 231, 0.760);
+}
+/* PERSON */
+.prime_container{
+   background-color: rgba(5, 5, 5, 0.742); 
+   color: white;
+   padding: 30px;
+}
+.collection{
+    color: rgb(31, 189, 224);
+    font-size: 12px;
+    font-weight: bolder;
+}
+/* STARTER WATCH */
+
+.start{
+    background-color: rgb(86, 86, 232);
+    color: white;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 3px;
+}
+.textyear{
+    font-size: 16px;
+    color: rgb(139, 135, 135);
+}
+.form-check{
+   font-size: 13px;
+   color: gray;
+}
+.form-check-input:checked {
+    background-color: gray;
+    border: gray;
+}
+.ms-1 {
+    margin-left: (.25) !important;
+  }
+
+
+/* EARPHONES2 */
+
+ .earphones{
+    text-align: center;
+    background-color: whitesmoke; 
+ }
+
+  .pading_para{
+   padding-top: 7%;
+  line-height: 0;
+ } 
+
+ .flex_row{
+    padding: 20px;
+ }
+  .thumbnail:hover{
+    box-shadow: 2px 3px 10px grey;
+ }
+ .container_side{
+    background-color: whitesmoke;
+ }
+ .side{
+    display: flex;
+ }
+ .child_side img{
+   
+    border: none;
+    border-radius: 5px;
+    margin: 7px;
+ }
+#child-side2 {
+    border: 1px solid rgb(82, 3, 208);
+    box-shadow: 2px 3px 10px rgb(134, 31, 230);
+    /* border-color: blue; */
+}
+ 
+ .side1{
+    display: flex;
+ }
+ .child_side1{
+    border-radius: 5px;
+    border: lightgrey;
+    margin: 14px;
+ }
+ #states{
+   border-color: rgb(212, 210, 207);
+    width: 130px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+ }
+ .span_btn{
+    display: flex;
+ }
+ .span_btn2{
+    border-color: rgb(253, 241, 241);
+    width: 30px;
+    background-color: whitesmoke;
+    
+ }
+ .span_btn3, .span_btn1, .span_btn2{
+    border: none;
+    background-color: rgb(240, 233, 233);
+    color: black;
+    width: 30px;
+    font-weight: bold;
+    font-size: 15px;
+   
+ }
+ .span_btn3{
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    /* border-left: 0px; */
+
+ }
+ .span_btn1{
+    font-weight: bold;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px; 
+    border-right: 0px;
+ }
+ .paracol{
+    color: rgb(117, 112, 112);
+    font-size: 12px;
+    font-weight: bold;
+    padding: 1px;
+    margin-bottom: 30px;
+ }
+ .paraco2{
+    color: rgb(117, 112, 112);
+   font-size: 22px;
+    font-weight: bold;
+    margin: 10px;
+ }
+ .btnn{
+    margin: 10px;
+    padding: 8px;
+    font-size: 10px;
+    font-weight: bolder;
+    border-radius: 4px;
+    background-color: rgb(41, 24, 226);  
+ }
+ .btnn1{
+    margin: 10px;
+    padding: 8px;
+    font-size: 10px;
+    font-weight: bolder;
+    border-radius: 4px;
+    background-color: palevioletred;
+ }
+ #data{
+   background-color: whitesmoke;
+   width: 70px;
+   border-color: rgb(196, 195, 195);
+ }
+
+ .btn-round{
+   width: 1.5rem;
+   height: 1.5rem;
+   border-radius: 50%;
+   margin: 3px;
+   border: 1px solid rgb(52, 66, 172);
+   background-color: whitesmoke;
+ }
+ .btn-round:hover{
+    box-shadow: 2px 3px 10px rgb(134, 31, 230);
+ }
+ .earphones2{
+    margin-top: 20px;
+ }
+/* OFFERWATCHES */
+.card{
+    border-radius: 0px;
+    box-shadow: 2px 3px 10px grey;
+}
+/* BOXES */
+
+.bi-pass { 
+    background-color:  rgb(79, 79, 220);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 10px 12px;
+    color: white;
+}
+.bi-people-fill{
+    background-color:  rgb(79, 79, 220);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 10px 12px;
+    color: white;
+}
+.bi-check-lg{
+    background-color: rgb(79, 79, 220);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 10px 12px;
+    color: white;
+}
+.bi-cup-hot{
+    background-color: rgb(79, 79, 220);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 10px 12px;
+    color: white;
+}
+.box-para{
+    font-size: 15px;
+    font-weight: bold;
+}
+/* FOOTER */
+.chncol{
+    background-color: rgba(220, 220, 216, 0.858); 
+    width: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    color: gray;
+}
+.inpbor{
+    background-color: rgba(220, 220, 216, 0.858);
+    border: none;
+    width: 200px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.container4{
+    background-color: whitesmoke;
+}
+.socialcontainer{
+    background-color: whitesmoke; 
+}
+span{
+    padding: 5px;
+    color: blue;
+}
+button{
+   border: none;
+    background-color: blue;
+    color: white;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.small{
+    font-size: 12px;
+}
+.small1{
+    font-size: 14px;
+    font-weight: bold;
+    color: grey;
+}
+.listgroup1{
+    border:none;
+    box-shadow: none;
+    font-size: 12px;
+    background-color: whitesmoke;
+}
+.user-det{
+    border: none;
+    box-shadow: none;
+    background-color: whitesmoke;
+}
+.ms-1 {
+    margin-right: ( .75) !important;
+
+}
+/* EARPHONES */
+.card-footer{
+    border: none;
+}
+.ear-contaner{
+    border: none;
+    box-shadow: none;
+}
+.card-header{
+    background-color: white;
+    border-bottom: none;
+    
+}
+.ear-button{
+    width: 170px;
+    font-size: 15px;
+    background-color: rgb(33, 33, 173);
+}
+.fontsize{
+    color: rgb(224, 91, 136);
+    font-size: 23px;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 15px;
+}
+/* ICONS */
+a{
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(29, 29, 222);
+}
+
+
+.car{
+    color: rgb(21, 21, 121);
+}
+.card-text{
+    font-size: 15px;
+}
+.icon-border{
+    border: none;
+    box-shadow: none;
+}
+/* WATCHES */
+.maincontainer{
+    background-color: whitesmoke;
+   
+}
+.watch-border{
+    box-shadow: none;
+    background-color: whitesmoke;
+    border: none; 
+}
+.backcolor{
+    background-color: rgba(5, 5, 5, 0.742);
+    color: white;
+    width: 40%;
+}
+.backcolor1 {
+    background-color: rgb(222, 29, 119);
+    border: none;
+    padding: 2px;
+    width: 40%;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 12px;
+    color: white;
+}  
+
+
+
+
+
+
+
+
+
+
